@@ -1,0 +1,1 @@
+Hola aixo es la 1r versió per a Git.
