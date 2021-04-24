@@ -1,1 +1,3 @@
 Hola aixo es la 1r versió per a Git.
+Modifiquem laa 1r versió per a Git
+Afegeixo una linia mes
